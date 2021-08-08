@@ -33,9 +33,9 @@ Open  <http://localhost:3000> to view it in the browser.
  **Project Demo**
 
 
-  <img src="public\image\First.png" alt="project Demo image" style="height: 100px; width:150px;"/>
-  <img src="public\image\second.png" alt="project Demo image" style="height: 100px; width:150px;"/>
-  <img src="public\image\Third.png" alt="project Demo image" style="height: 100px; width:150px;"/>
-  <img src="public\image\final.gif" alt="project Demo gif" style="height: 100px; width:150px;"/>
+  <img src="public\image\First.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\second.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\Third.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\final.gif" alt="project Demo gif"  style="height: 100px; width:100%;"/>
 
  ***
