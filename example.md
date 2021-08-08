@@ -26,15 +26,33 @@ Open  <http://localhost:3000> to view it in the browser.
 
 ---
 
-[ Live Project Demo  ](https://city-tour-adventure.netlify.app/, "city-tour-adventure")
+## Project Statck
+
+1. Stack
+    1. Reactjs
+    2. material-ui/core
+    3. material-ui/icons
+    4. material-ui/lab
+    5. react-google-maps/api
+    6. google-map-react
+    7. axios
+
+2. API
+    1. [Google map](https://console.cloud.google.com/apis/)
+    2. [Google map Place](https://console.cloud.google.com/apis/)
+    3. [Open Weather Map](https://rapidapi.com/community/api/open-weather-map/ "weather map API") from RapidApi
+    4. [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor/ "Travel Map APi") from TapidAPI
 
 ---
 
- **Project Demo**
+[Live Project Demo](https://city-tour-adventure.netlify.app/ "city-tour-adventure")
 
- ![alt text for screen readers](public\image\second.png  "Text to show on mouseover").
-  ![alt text for screen readers](public\image\third.png  "Text to show on mouseover").
+---
 
-![alt text for screen readers](public\image\First.png "Text to show on mouseover").
-![alt text for screen readers](public\image\final.gif "Text to show on mouseover").
+**Project Demo**
+
+  <img src="public\image\First.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\second.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\Third.png" alt="project Demo image" style="height: 100px; width:100%;"/>
+  <img src="public\image\final.gif" alt="project Demo gif"  style="height: 100px; width:100%;"/>
  ***
