@@ -1,6 +1,6 @@
 # city-tour-adventure
 
-This web page application suggest you food, restaurant and attraction places near you and also give you real time weather data around you and search city location.
+this web page suggests food, restaurant, and attraction places near you and also give you real-time weather data around you and the city
 
 ---
 
