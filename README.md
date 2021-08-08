@@ -34,7 +34,7 @@ Open  <http://localhost:3000> to view it in the browser.
 
  ![alt text for screen readers](https://www.wired.com/wp-content/uploads/2015/03/855.gif  "Text to show on mouseover").
   ![alt text for screen readers](public\image\third.png  "Text to show on mouseover").
-
+<img src="public\image\final.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 ![alt text for screen readers](public\image\First.png "Text to show on mouseover").
 ![alt text for screen readers](public\image\final.gif "Text to show on mouseover").
  ***
